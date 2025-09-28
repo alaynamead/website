@@ -20,15 +20,15 @@ math = false          # enable KaTeX (https://katex.org/) globally
     avatarSize = "300px"
     colorBlack = "#222222"
     #colorRed = "#b0db43"
-    colorRed = "#7fca45"
+    colorRed = "#269200"
   [[params.socialIcons]]
     icon = "fa-brands fa-bluesky"
     title = "Bluesky"
     url = "https://bsky.app/profile/alaynamead.bsky.social"
-  [[params.socialIcons]]
-    icon = "fab fa-twitter"
-    title = "Twitter"
-    url = "https://twitter.com/alayna_mead"
+#  [[params.socialIcons]]
+#    icon = "fab fa-twitter"
+#    title = "Twitter"
+#    url = "https://twitter.com/alayna_mead"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "Github"
