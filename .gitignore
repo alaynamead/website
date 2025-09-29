@@ -1,1 +1,4 @@
 .gitmodules
+public
+resources
+*.lock
