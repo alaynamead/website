@@ -22,21 +22,21 @@ math = false          # enable KaTeX (https://katex.org/) globally
     #colorRed = "#b0db43"
     colorRed = "#269200"
   [[params.socialIcons]]
+    icon = "fas fa-envelope"
+    title = "E-mail"
+    url = "mailto:alayna.mead@gmail.com"
+  [[params.socialIcons]]
     icon = "fa-brands fa-bluesky"
     title = "Bluesky"
     url = "https://bsky.app/profile/alaynamead.bsky.social"
-#  [[params.socialIcons]]
-#    icon = "fab fa-twitter"
-#    title = "Twitter"
-#    url = "https://twitter.com/alayna_mead"
   [[params.socialIcons]]
     icon = "fab fa-github"
     title = "Github"
     url = "https://github.com/alaynamead"
   [[params.socialIcons]]
-    icon = "fas fa-envelope"
-    title = "E-mail"
-    url = "mailto:alayna.mead@gmail.com"
+    icon = "inaturalist"
+    title = "iNaturalist"
+    url = "https://www.inaturalist.org/people/alaynam"
 
 [permalinks]
   "/" = "/:filename"
