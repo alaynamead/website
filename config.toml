@@ -12,7 +12,9 @@ math = false          # enable KaTeX (https://katex.org/) globally
   author = "Alayna Mead"
   description = "description goes here"
   favicon = "favicon.ico"  # path to a .ico to use as favicon
-  logo = ""  # url or path to a logo to put in the header
+  [params.logo]
+    url = "banner.svg"  # url or path to a logo to put in the header
+    alt = "Dr. Alayna Mead"
   [params.footer]
   [params.style]  # appearance options (can be omitted)
     fontFamily = "Roboto"
