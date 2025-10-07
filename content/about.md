@@ -7,7 +7,7 @@ title = "Alayna Mead"
 {{< figure class="avatar" src="/avatar.png" alt="Photo of Alayna in a blue shirt standing in front of some trees">}}
 
 
-As an evolutionary plant biologist focused on climate adaptation, I seek to understand plant 
+As an **evolutionary plant biologist focused on climate adaptation**, I seek to understand plant 
 responses to the environment across time scales – plastic responses across days, seasons, or 
 years; and evolutionary responses across generations, populations, and species.
 
@@ -16,14 +16,14 @@ I completed my PhD in 2023 with [Victoria Sork](https://sorklab.eeb.ucla.edu/) a
 
 # Research Interests
 
-My work focuses on understanding the mechanisms of evolution both for the insight it provides into natural history 
-and as a tool for conserving plants under rapidly changing climates. Forest trees are often foundational species 
-in ecosystems, and their life history characteristics - long lifespans, high gene flow, and high genetic diversity -
-make them interesting subjects for studying evolution. My research includes both model species (*Populus*, poplars or
-cottonwoods) and non-model species (*Quercus*, oaks), as well as both common and endangered species. My work is rooted
-in genomic methods, but I believe that genomics is most useful when genetic variation can be linked to its phenotypic 
+My work focuses on understanding the mechanisms of evolution both for the insight it provides into natural 
+history and as a tool for conserving plants under rapidly changing climates. Forest trees are often 
+foundational species in ecosystems, and their life history characteristics –- long lifespans, high 
+gene flow, and high genetic diversity –- make them interesting subjects for studying evolution. 
+My research includes both model species (*Populus*, poplars or cottonwoods) and non-model species 
+(*Quercus*, oaks), as well as both common and endangered species. My work is rooted in genomic methods,
+but I believe that genomics is most useful when genetic variation can be linked to its phenotypic 
 significance, so I also incorporate measurements of functional and ecophysiological traits.
-
 
 
 # Publications
