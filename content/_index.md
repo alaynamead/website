@@ -18,8 +18,8 @@ I completed my PhD in 2023 with [Victoria Sork](https://sorklab.eeb.ucla.edu/) a
 
 My work focuses on understanding the mechanisms of evolution both for the insight it provides into natural 
 history and as a tool for conserving plants under rapidly changing climates. Forest trees are often 
-foundational species in ecosystems, and their life history characteristics –- long lifespans, high 
-gene flow, and high genetic diversity –- make them interesting subjects for studying evolution. 
+foundational species in ecosystems, and their life history characteristics - long lifespans, high 
+gene flow, and high genetic diversity - make them interesting subjects for studying evolution. 
 My research includes both model species (*Populus*, poplars or cottonwoods) and non-model species 
 (*Quercus*, oaks), as well as both common and endangered species. My work is rooted in genomic methods,
 but I believe that genomics is most useful when genetic variation can be linked to its phenotypic 
