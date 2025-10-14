@@ -4,7 +4,7 @@ title = "Alayna Mead"
 
 # About Me
 
-{{< figure class="avatar" src="/avatar.png" alt="Photo of Alayna in a blue shirt standing in front of some trees">}}
+{{< figure class="avatar" src="avatar.png" alt="Photo of Alayna in a blue shirt standing in front of some trees">}}
 
 
 As an **evolutionary plant biologist focused on climate adaptation**, I seek to understand plant 
